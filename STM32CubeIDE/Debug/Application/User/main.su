@@ -1,0 +1,11 @@
+tcpserverecho.h:27:13:tcp_client	32	static
+main.c:171:13:tcp_server_thread	72	static
+main.c:104:13:tcp_client_thread	216	static
+main.c:689:13:TouchGFX_Task	8	static
+tcpserverecho.h:24:6:tcp_client_init	16	static
+main.c:145:6:http_server_serve	1544	static
+main.c:165:6:tcp_server_init	16	static
+main.c:314:6:SystemClock_Config	224	static
+main.c:218:5:main	120	static,ignoring_inline_asm
+main.c:710:6:HAL_TIM_PeriodElapsedCallback	0	static
+main.c:727:6:Error_Handler	0	static
